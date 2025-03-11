@@ -1,6 +1,6 @@
 {
-  "name": "@honeycombio/opentelemetry-web",
-  "version": "0.13.0",
+  "name": "@jessitronica/opentelemetry-web",
+  "version": "0.13.1",
   "description": "Honeycomb OpenTelemetry Wrapper for Browser Applications",
   "main": "./dist/cjs/index.js",
   "exports": {
